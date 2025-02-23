@@ -10,14 +10,6 @@
     "exampleSite/config/_default",
     "exampleSite/hugo.toml"
   ],
-  "arrangement": [
-    {
-      "type": "folder",
-      "targetPath": "exampleSite/content/english",
-      "groupName": "Content [en]",
-      "include": "",
-      "exclude": ""
-    }
-  ],
+  "arrangement": [],
   "showCommitModal": true
 }
