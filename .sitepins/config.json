@@ -10,6 +10,12 @@
     "exampleSite/config/_default",
     "exampleSite/hugo.toml"
   ],
-  "arrangement": [],
+  "arrangement": [
+    {
+      "type": "heading",
+      "groupName": "Home",
+      "targetPath": ""
+    }
+  ],
   "showCommitModal": true
 }
