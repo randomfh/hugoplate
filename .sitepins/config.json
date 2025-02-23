@@ -10,19 +10,6 @@
     "exampleSite/config/_default",
     "exampleSite/hugo.toml"
   ],
-  "arrangement": [
-    {
-      "type": "heading",
-      "groupName": "Home",
-      "targetPath": ""
-    },
-    {
-      "type": "folder",
-      "targetPath": "exampleSite/content/english/blog",
-      "groupName": "Blogs",
-      "include": "*.md",
-      "exclude": "_index.md"
-    }
-  ],
+  "arrangement": [],
   "showCommitModal": true
 }
