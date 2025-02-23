@@ -8,7 +8,8 @@
   },
   "themeConfig": [
     "exampleSite/config/_default",
-    "exampleSite/hugo.toml"
+    "exampleSite/hugo.toml",
+    "exampleSite/config/_default/module.toml"
   ],
   "arrangement": [],
   "showCommitModal": true
