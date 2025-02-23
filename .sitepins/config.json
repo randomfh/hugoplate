@@ -17,6 +17,13 @@
       "groupName": "Blogs",
       "include": "*.md",
       "exclude": "_index.md"
+    },
+    {
+      "type": "folder",
+      "targetPath": "exampleSite/content/english/authors",
+      "groupName": "Authors",
+      "include": "*.md",
+      "exclude": "_index.md"
     }
   ],
   "showCommitModal": true
