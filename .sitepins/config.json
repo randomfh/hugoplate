@@ -7,26 +7,9 @@
     "root": "exampleSite/content/english"
   },
   "themeConfig": [
-    "exampleSite/config"
+    "exampleSite/config/_default",
+    "exampleSite/hugo.toml"
   ],
-  "arrangement": [
-    {
-      "type": "file",
-      "targetPath": "exampleSite/content/english/_index.md",
-      "groupName": "Homepage"
-    },
-    {
-      "type": "file",
-      "targetPath": "exampleSite/content/english/blog/_index.md",
-      "groupName": "Blog List Page"
-    },
-    {
-      "type": "folder",
-      "targetPath": "exampleSite/content/english/blog",
-      "groupName": "Blog",
-      "include": "*.md",
-      "exclude": "_index.md"
-    }
-  ],
+  "arrangement": [],
   "showCommitModal": true
 }
