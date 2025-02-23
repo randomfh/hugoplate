@@ -10,31 +10,6 @@
     "exampleSite/config/_default",
     "exampleSite/hugo.toml"
   ],
-  "arrangement": [
-    {
-      "type": "heading",
-      "groupName": "Home",
-      "targetPath": ""
-    },
-    {
-      "type": "file",
-      "targetPath": "exampleSite/content/english/_index.md",
-      "groupName": "Homepage"
-    },
-    {
-      "type": "folder",
-      "targetPath": "exampleSite/content/english/blog",
-      "groupName": "Blogs",
-      "include": "*.md",
-      "exclude": "_index.md"
-    },
-    {
-      "type": "folder",
-      "targetPath": "exampleSite/content/english/authors",
-      "groupName": "Authors",
-      "include": "*.md",
-      "exclude": "_index.md"
-    }
-  ],
+  "arrangement": [],
   "showCommitModal": true
 }
