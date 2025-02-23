@@ -24,6 +24,11 @@
       "groupName": "Authors",
       "include": "*.md",
       "exclude": "_index.md"
+    },
+    {
+      "type": "file",
+      "targetPath": "exampleSite/content/english/_index.md",
+      "groupName": "Homepage"
     }
   ],
   "showCommitModal": true
