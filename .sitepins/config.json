@@ -24,7 +24,7 @@
       "type": "folder",
       "targetPath": "exampleSite/content/english/blog",
       "groupName": "Blog",
-      "include": "",
+      "include": "*.md",
       "exclude": "_index.md"
     }
   ],
