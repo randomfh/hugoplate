@@ -9,6 +9,24 @@
   "themeConfig": [
     "exampleSite/config"
   ],
-  "arrangement": [],
+  "arrangement": [
+    {
+      "type": "file",
+      "targetPath": "exampleSite/content/english/_index.md",
+      "groupName": "Homepage"
+    },
+    {
+      "type": "file",
+      "targetPath": "exampleSite/content/english/blog/_index.md",
+      "groupName": "Blog List Page"
+    },
+    {
+      "type": "folder",
+      "targetPath": "exampleSite/content/english/blog",
+      "groupName": "Blog",
+      "include": "",
+      "exclude": "_index.md"
+    }
+  ],
   "showCommitModal": true
 }
