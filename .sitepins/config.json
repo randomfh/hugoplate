@@ -24,13 +24,6 @@
       "groupName": "Authors",
       "include": "*.md",
       "exclude": "_index.md"
-    },
-    {
-      "type": "folder",
-      "targetPath": "exampleSite/content/english",
-      "groupName": "Content [en]",
-      "include": "",
-      "exclude": ""
     }
   ],
   "showCommitModal": true
