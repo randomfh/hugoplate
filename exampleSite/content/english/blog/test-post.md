@@ -2,7 +2,7 @@
 title: Test Post
 meta_title: This is test post
 description: 'test meta description '
-date: ''
+date: 2025-02-22T07:25:00.000Z
 image: ''
 categories:
   - test
@@ -10,7 +10,7 @@ author: ''
 tags:
   - test
 draft:
-  id: 8ee990ad-478b-4b98-b5ab-745db4c18c74
+  id: a94c9397-4ae5-434e-9566-f4369c7dc7d7
   value:
     label: Draft
     name: draft
