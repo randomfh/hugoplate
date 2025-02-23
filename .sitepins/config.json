@@ -12,6 +12,16 @@
   ],
   "arrangement": [
     {
+      "type": "heading",
+      "groupName": "Home",
+      "targetPath": ""
+    },
+    {
+      "type": "file",
+      "targetPath": "exampleSite/content/english/_index.md",
+      "groupName": "Homepage"
+    },
+    {
       "type": "folder",
       "targetPath": "exampleSite/content/english/blog",
       "groupName": "Blogs",
@@ -24,11 +34,6 @@
       "groupName": "Authors",
       "include": "*.md",
       "exclude": "_index.md"
-    },
-    {
-      "type": "file",
-      "targetPath": "exampleSite/content/english/_index.md",
-      "groupName": "Homepage"
     }
   ],
   "showCommitModal": true
